@@ -8,7 +8,7 @@ The main TODO list main points are the current plans on what to do. The sub-poin
 * Web Scraping
   * Beautiful Soup
 * Text Summarizer
-  * Project COde from Summer Courses
+  * Project Code from Summer Courses
   * [Towards Data Science Article](https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70)
 * Format Output
   * Open in Web Browser
