@@ -6,7 +6,8 @@ The main TODO list main points are the current plans on what to do. The sub-poin
 ## TODO
 
 * Web Scraping
-  * Beautiful Soup
+  * ~~Beautiful Soup~~
+  * User supplied URL for Fox or CNN
 * Text Summarizer
   * Project Code from Summer Courses
   * [Towards Data Science Article](https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70)
