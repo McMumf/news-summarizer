@@ -19,6 +19,9 @@ soup = BeautifulSoup(page.read(), features="lxml")
 
 #print(soup)
 
-for div in soup.find_all('div', attrs={'class': 'zn-body__paragraph'}):
-    print(clear_attributes(str(div)))
+article_text = ""
 
+for div in soup.find_all('div', attrs={'class': 'zn-body__paragraph'}):
+    article_text += clear_attributes(str(div))
+
+print(article_text)
