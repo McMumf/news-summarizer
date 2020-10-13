@@ -1,4 +1,5 @@
 # news-summarizer
+
 Enter a URL to get a quick summary of the news
 
 The main TODO list main points are the current plans on what to do. The sub-points are different ideas on how to do them.

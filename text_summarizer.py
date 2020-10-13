@@ -19,7 +19,7 @@ class Text_Summarizer:
         self.sentences = []
     
         # Tokenize Sentences
-        sentences = te.split('. ')
+        sentences = text.split('. ')
         
         for sentence in sentences:
             self.sentences.append(sentence)
